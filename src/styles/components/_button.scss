@@ -1,0 +1,8 @@
+.button{
+    background:$purple;
+    border:none;
+    border-bottom:0.3rem solid darken($purple,10%);
+    color:white;
+    font-weight: bold;
+    padding:$s-size; 
+}

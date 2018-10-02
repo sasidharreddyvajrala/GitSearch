@@ -1,0 +1,42 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\sasi\scoop\apps\yarn\current\Yarn\bin\yarn.js add babel-preser-react@6.24.1 babel-preset-env@1.5.2
+
+PATH: 
+  C:\Users\sasi\AppData\Local\GitHub\PortableGit_69bd5e6f85e4842f07db71c9618a621154c52254\cmd;C:\Users\sasi\AppData\Local\GitHub\PortableGit_69bd5e6f85e4842f07db71c9618a621154c52254\usr\bin;C:\Users\sasi\AppData\Local\GitHub\PortableGit_69bd5e6f85e4842f07db71c9618a621154c52254\usr\share\git-tfs;C:\Users\sasi\AppData\Local\Apps\2.0\4HDRPT6A.H3B\9R3WDO8C.01X\gith..tion_317444273a93ac29_0003.0003_3b02964391cfbdd4;C:\Users\sasi\AppData\Local\GitHub\lfs-amd64_2.1.1;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Brackets\command;C:\Users\sasi\scoop\apps\yarn\current\Yarn\bin;C:\Users\sasi\scoop\apps\yarn\current\bin;C:\Users\sasi\scoop\shims;C:\Python36-32;C:\Python36-32\Lib\site-packages\;C:\Python36-32\Scripts\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\nodejs\;C:\Users\sasi\AppData\Local\Microsoft\WindowsApps;C:\Users\sasi\AppData\Roaming\npm;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  9.4.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/babel-preser-react: Not found
+      at Request.params.callback [as _callback] (C:\Users\sasi\scoop\apps\yarn\1.7.0\Yarn\lib\cli.js:65656:18)
+      at Request.self.callback (C:\Users\sasi\scoop\apps\yarn\1.7.0\Yarn\lib\cli.js:134675:22)
+      at Request.emit (events.js:160:13)
+      at Request.<anonymous> (C:\Users\sasi\scoop\apps\yarn\1.7.0\Yarn\lib\cli.js:135658:10)
+      at Request.emit (events.js:160:13)
+      at IncomingMessage.<anonymous> (C:\Users\sasi\scoop\apps\yarn\1.7.0\Yarn\lib\cli.js:135578:12)
+      at Object.onceWrapper (events.js:255:19)
+      at IncomingMessage.emit (events.js:165:20)
+      at endReadableNT (_stream_readable.js:1101:12)
+      at process._tickCallback (internal/process/next_tick.js:152:19)
+
+npm manifest: 
+  {
+    "name": "Indecision-app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Sasi",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

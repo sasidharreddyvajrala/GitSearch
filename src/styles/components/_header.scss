@@ -1,0 +1,19 @@
+.header{
+    background:$off-blue;
+    margin-bottom:$m-size;
+    padding: $l-size 0;
+    color:white;
+}
+
+.header__title{
+    font-size:$l-size;
+    margin:0;
+    text-align: center;
+}
+
+
+@media(min-width:$desktop-breakpoint){
+    .header{
+        margin-bottom:$xl-size;
+    }
+}
